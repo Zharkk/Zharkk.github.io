@@ -50,8 +50,8 @@ p {
 	        animation-duration: 5s;
 	-webkit-animation-iteration-count: infinite;
 	        animation-iteration-count: infinite;
-	-webkit-animation-timing-function: ease-in-out;
-	        animation-timing-function: ease-in-out;
+	-webkit-animation-timing-function: vibrate-1;
+	        animation-timing-function: vibrate-1;
 }
 
 
