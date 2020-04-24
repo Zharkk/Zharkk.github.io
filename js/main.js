@@ -61,7 +61,7 @@ $(document).ready(()=>{
       if (result.online) {
         $(".sip").html(result.players.now);
       } else {
-        $(".playercount").html("Server is offline!");
+        $(".playercount").html("ViperHQ is offline!");
       }
     });
   }, 3000);
