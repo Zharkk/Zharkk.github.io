@@ -1,3 +1,3 @@
 layout: page
-title: "Vote"
+title: "VOTES"
 permalink: /vote/
