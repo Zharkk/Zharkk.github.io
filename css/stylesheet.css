@@ -56,7 +56,7 @@ p {
 
 .btn-group button {
   background-color: #25B600; /* Green background */
-  border: 2px #67D100; /* Green border */
+  border: 2px green; /* Green border */
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
@@ -65,6 +65,8 @@ p {
   margin: 10px;
   border-radius: 8px;
   font-family: "Open Sans";
+  text-align: center;
+  font-size: 15px;
 }
 
 .btn-group2 button {
@@ -78,6 +80,8 @@ p {
   margin: 10px;
   border-radius: 8px;
   font-family: "Open Sans";
+  text-align: center;
+  font-size: 15px;
 }
 
 
