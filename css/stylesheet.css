@@ -61,7 +61,7 @@ p {
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
   width: 20%; /* Set a width if needed */
-  display:  ;/* Make the buttons appear below each other */
+  display:;  /* Make the buttons appear below each other */
   margin: 10px;
   border-radius: 8px;
 }
