@@ -56,23 +56,25 @@ p {
 
 .btn-group button {
   background-color: #4CAF50; /* Green background */
-  border: 1px solid green; /* Green border */
+  border: 2px #67D100; /* Green border */
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
-  float: ; /* Float the buttons side by side */
-  justify-content: center;
+  width: 20%; /* Set a width if needed */
+  display:  /* Make the buttons appear below each other */
+  margin: 10px;
   border-radius: 8px;
 }
 
 .btn-group2 button {
   background-color: #4CAF50; /* Green background */
-  border: 1px solid green; /* Green border */
+  border: 0px #67D100; /* Green border */
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
-  float: ; /* Float the buttons side by side */
-  justify-content: center;
+  width: 20%; /* Set a width if needed */
+  display: /* Make the buttons appear below each other */
+  margin: 10px;
   border-radius: 8px;
 }
 
