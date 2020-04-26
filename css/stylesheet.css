@@ -61,6 +61,7 @@ p {
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
   float: left; /* Float the buttons side by side */
+  justify-content: center;
 }
 
 .btn-group2 button {
@@ -70,7 +71,12 @@ p {
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
   float: right; /* Float the buttons side by side */
+  justify-content: center;
 }
+
+.btn-group {border-radius: 8px;}
+
+.btn-group2 {border-radius: 8px;}
 
 @-webkit-keyframes logo {
 	0% {
