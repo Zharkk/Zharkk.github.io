@@ -60,7 +60,7 @@ p {
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
-  float: left; /* Float the buttons side by side */
+  float: ; /* Float the buttons side by side */
   justify-content: center;
   border-radius: 8px;
 }
@@ -71,7 +71,7 @@ p {
   color: white; /* White text */
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
-  float: right; /* Float the buttons side by side */
+  float: ; /* Float the buttons side by side */
   justify-content: center;
   border-radius: 8px;
 }
